@@ -1,0 +1,5 @@
+label,text
+phish,"Your account has been suspended. Click http://fake.verify.example.com"
+phish,"Urgent: Login here: http://malicious.example.com"
+legit,"Meeting tomorrow at 10 AM. Please review agenda."
+legit,"Hi team, please find the monthly report attached."
